@@ -1,0 +1,312 @@
+CHI 2016 Papers and Notes
+
+Reviews of submission #2699: "My Phone and Me: Understanding People's
+Receptivity to Mobile Notifications"
+
+------------------------ Submission 2699, Review 4 ------------------------
+
+Reviewer:           primary
+
+Your Assessment of this Paper's Contribution to HCI
+
+
+Overall Rating
+
+   3.5 . . . Between neutral and possibly accept 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+
+The Meta-Review
+
+   The paper aims to provide a deeper understanding of users' interaction
+   with mobile notification. The reviewers provided mixed scores. Reviewers
+   consider the topic to be interesting (R2) as well as relevant and timely
+   (R1). R1 argues that the work is an interesting advancement of recent
+   research.
+
+   R1, who provided the most positive review, states that the paper is
+   packed with interesting results. It can make a valid contribution to CHI
+   (R1, R3). It is well written (R2) and provides sufficient details for the
+   reader.
+
+   Reviewers all state that a major limitation is the accessibility of the
+   paper's contribution. This, at least in parts, results from the density
+   of the paper. A large number of interesting results are provided (R1).
+   This makes it necessary to provide a clear summary of the main
+   contributions and take away.
+
+   Reviewers focus on the paper's current issues. The authors should provide
+   a rebuttal to clarify the reviewers’ questions and concerns. In
+   particular, the authors might want to address the following aspects and
+   how they would incorporate according changes in the paper:
+   * Provide information about how decision time is defined. In particular,
+   how deletions of notifications are addressed and what is the starting
+   point of measuring DT. (R1)
+   * Explain how the "click rate" was determined. (R1)
+   * State if the data was normal distributed. (R1)
+   * Provide details about the use of the collected context data (R3)
+   * State how reliable the speech input was (R3)
+
+   Most importantly, the authors might want to provide a short description
+   of the main implications/most important results of the study that could
+   be included in a revised version of the paper
+
+Publicity Headline
+
+
+
+------------------------ Submission 2699, Review 1 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   The paper reveals how different factors, such as the ringer mode, the
+   sender, or whether the user is busy, affect how fast people attend to
+   notifications.
+
+Overall Rating
+
+   3.5 . . . Between neutral and possibly accept 
+
+Expertise
+
+   4  (Expert )
+
+The Review
+
+   The paper explores factors that affect mobile phone users' receptivity of
+   mobile phone notifications. It analyzes that data of 20 volunteers, who
+   installed an application that logged notifications & reactions to them (n
+   = 10372), and collected subjective feedback for a subset (n = 474) of
+   them through experience sampling.
+
+
+   The paper is relevant and timely. It represents an interesting
+   advancement of recent research about how people handle mobile phone
+   notifications. The paper is packed with interesting results. While
+   different factors that affect receptivity have been explored before, this
+   paper covers a large set of them: including previously understudied
+   sender-receiver relationship and personality. Conclusions are drawn
+   carefully, limitations are disclosed properly.
+   Study-wise, it is great to see how the authors took measures to make the
+   ESM questionnaire more successful: the limitation to 4 per day to avoid,
+   presenting a screenshot of the notification to improve recall, and
+   allowing participants to dictate responses to increase compliance.
+
+   All in all, the paper can make a good contribution to CHI and I support
+   its acceptance. It would be easier to make a strong case for the paper,
+   if the presentation of the results are improved (see 1), and that some
+   open questions are clarified to my satisfaction in the rebuttal (see 2).
+
+   There are two main aspects to improve:
+
+   (1) ---------
+   The most important aspect to improve is the result presentation. The
+   paper is very dense, i.e. it reports a lot of very interesting results.
+   Thus, is it even more important than usual to give the reader a good
+   means to quickly find the results.
+
+   For example, for the results on response time (pages 5 to 7), I would
+   suggest to summarize findings in a list, such as
+
+   * Notifications are seen
+   	- fastest when the phone is in vibration mode
+   	- fastest when the user is commuting and slowest when idle
+   	- faster when ongoing tasks are more complex
+
+   Decision times are
+   	- fastest when they are from partners and immediate family members
+   	- slowest when they are from extended family members and service
+   providers
+
+   Notifications are
+   	- least disruptive when
+   		+ performing simple tasks
+   		+ the user is idle or has just started a task
+   		+ the sender is extended family member
+   	- most disruptive when
+   		+ sender is not a person, or a work-related contact (subordinate,
+   colleague)
+   		+ when working
+
+   ... and provide similar summaries for the other two result sections. In
+   addition, some of these findings have been shown before, sometimes in the
+   same, sometimes in different contexts. However, some of the findings have
+   never been shown before. It would be great to have some emphasis on the
+   truly novel findings.
+
+
+
+   (2) ---------
+   Some aspects of the paper require clarifications. I strongly suggest to
+   clarify the following points in the rebuttal:
+
+   * Regarding the decision time (DT), how is "react" defined? I found the
+   definition for "seen" but not for "react". I assume that it includes
+   launching the corresponding app. What about deleting the notification?
+
+   * Further, regarding DT, the mean DTs are quite short: from 3.3 to 11.9
+   seconds. What is considered as starting point for this interval? Is it
+   the time that the notification arrives? Is it the time that the
+   notification is seen?
+
+   * What exactly does "click rate" mean? On page 5, it is defined as the
+   "percentage of notifications that are clicked out of total
+   notifications." Does this include or exclude events where, let's say, a
+   WhatsApp notification was pending, and the user opened WhatsApp directly,
+   without opening the notification center and tapping onto the WhatsApp
+   notification?
+
+   * Person Correlation was used to compute the "relationship between the
+   complexity of an ongoing task and the seen time of a notification." Where
+   the variables normally distributed? My experiences is that time-related
+   variables in log data usually follow a power-law distribution. I suspect
+   that a non-parametric alternative, such as Spearman Rank Correlation
+   should have been used.
+
+   * On page 6, what is the meaning of "response" in "high-priority
+   notifications getting quicker response than low-priority notifications"?
+   Is it the seen time (ST), the decision time (DT), or something else?
+
+
+   Minor ------
+   * The conclusions would benefit from stating findings explicitly. At the
+   moment, the section mainly discloses that results regarding a factor were
+   found, e.g. "we observe a substantial role of the individual
+   psychological traits on how a person reacts to a mobile notification".
+   However, it does not disclose what those findings are, e.g. which
+   psychological traits affect people, and in what way people are affected.
+
+
+------------------------ Submission 2699, Review 2 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This submission presents results of an in-situ study on users’
+   receptivity of mobile notifications.  Using a mobile application and
+   experience sampling approach, a dataset was collected through an
+   in-the-wild study. Based on the quantitative and qualitative data
+   collected, different aspects were investigated including, response time,
+   disruptiveness, and acceptance.
+
+Overall Rating
+
+   2.5 . . . Between possibly reject and neutral 
+
+Expertise
+
+   4  (Expert )
+
+The Review
+
+   The submission presents and interesting topic. Given the large number of
+   notifications users receive daily, it is important to understand
+   different aspects of the notification mechanism. 
+   In general the paper is written in good details. The apparatus and the
+   conducted user study are described in enough details.  
+   However the result section is rather too long with too many sub-sections.
+   It makes hard to follow the analysis. It would be better if  the authors
+   add a paragraph right at the beginning of the result section and give an
+   overview on the structure of the analysis.
+
+   My main concern with this submission is its implications. While this
+   submission has a very long result section, the implications are not
+   discussed. Hence it is hard to understand what are the implications and
+   findings of the study. It is essential to elaborate clearly the
+   contributions of this research and lessons learned. The lengthy result
+   discussion does not illustrate the contributions of this submission.
+
+   Few other points:
+
+   -what was the incentive of fitting a logistic regression model? And why
+   only applied to the notification acceptance and not the other factors
+   assessed (disruptiveness and response time)?
+   -The submission has several grammatical issues and need to be proofread.
+   E.g. page 8, “However, we our study…” → “However, our study
+   …” 
+
+   In conclusion, I believe that this submission is not mature enough to get
+   accepted for CHI 16. Hence, I argue to reject it.
+
+    
+
+
+------------------------ Submission 2699, Review 3 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   The authors present a study of smartphone notifications and the impact of
+   cognitive and physical factors on response time and perceived disruption.
+   Data is collected with their novel approach to automated smartphone
+   logging and experience sampling. 
+
+Overall Rating
+
+   4.0 - Possibly Accept: I would argue for accepting this paper 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   The paper presents an in-the-wild study of smartphone notifications, and
+   a novel logging and experience sampling method is used to capture both
+   cognitive and physical factors and how they impact the response time and
+   perceived disruption of a notification. This paper provides the reader
+   with sufficient background to the topic, and the paper is very
+   interesting and easy to read. 
+
+   The main issue with the paper is that the findings are not currently
+   accessible to the reader. The results section is very long, and reports
+   many interesting insights. It is difficult to grasp the major outcomes of
+   this study. A summary of results would make the contribution of this work
+   stand out. Furthermore, the main results could be better highlighted in
+   the conclusions. As it stands, there is little for the reader to learn
+   from. A summary of how cognitive and physical factors impact response
+   time and perceived disruption is required, along with the practical
+   implications of these results for users, designers and researchers.
+
+   The remaining points are focused on smaller issues with the reporting of
+   this work and should be addressed in the rebuttal. With a small amount of
+   work, this paper could make a valuable contribution to CHI, and I would
+   possibly argue for its acceptance.
+
+   The paper describes the collection of context data (Table 1), but it is
+   not clear what this is used for. The physical activity that the user is
+   involved in is gathered both via the Google Activity Recognition API and
+   through the ESM questionnaire. Some clarification on this is needed. 
+
+   Additionally, the application uses voice input to allow the user to
+   dictate responses to the questionnaire. Some feedback on how reliable
+   this was, and how many participants used this feature, would be useful to
+   researchers who might follow this approach.
+
+   In some places, the questionnaire is called a ESM questionnaire. In
+   others, it is called the My Phone and Me questionnaire. Some consistency
+   would be helpful here. 
+
+   Similarly, there is inconsistency in the number of notifications that
+   were collected in the abstract and introduction (10372 vs 19494). As the
+   introduction does not explain this difference, I would suggest reporting
+   the final number of notifications instead.
+
+   A minor issue is that long sentences can be difficult to read,
+   e.g., ‘We found that the <long list of items> influence the response
+   time and the disruption perceived from a notification’.
+   It would be easier to read if these long sentences were flipped, 
+   e.g., ‘We found that the response time and the disruption perceived
+   from a notification can be influenced by the <long list of items>’.
+
+
+

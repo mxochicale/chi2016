@@ -1,0 +1,294 @@
+CHI 2016 Papers and Notes
+
+Reviews of submission #2316: "Under the Radar: Exploring the Feasibility
+of Subliminal Goal Priming on Smartphones"
+
+------------------------ Submission 2316, Review 4 ------------------------
+
+Reviewer:           primary
+
+Your Assessment of this Paper's Contribution to HCI
+
+
+Overall Rating
+
+   2.0 - Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in. 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+
+The Meta-Review
+
+   The paper proposes subliminal goal priming on smartphones. Overall the
+   paper is nicely written (R1, R2) and previous work is well covered and
+   introduced (R2, R3). Reviewers consider the topic interesting (R1, R2)
+   and research in this domain to be worthwhile. I would add that this work
+   goes into an exciting direction and could lead to a very valuable
+   contribution.
+
+   Reviewers identified a number of limitations. The measures are not
+   analysed using inferential statistics (R1). Thus, no hard evidence (R2)
+   for differences between the two conditions can be provided.
+
+   The most important issue is raised by R3. The authors compare two
+   conditions that both have the potential to present the words in a
+   subliminal way. Before comparing different subliminal approaches it
+   would, however, be necessary to show that subliminal goal priming works
+   in everyday life and high-level tasks. Therefore, it would be necessary
+   to add an additional condition without goal priming (mask only, no prime
+   - R3) to determine if subliminal goal priming actually works. The
+   presented study cannot show if one or both conditions are perceived in a
+   subliminal way and it also cannot show if the presentation has an effect.
+   Thus, I agree with R3 who states that it is not possible to draw
+   conclusions from the study.
+
+   Reviewers provide very valuable further comments for improving the paper.
+   While the work is not ready for publication yet I would be eager to see a
+   continuation of the work. The direction is certainly worth exploring.
+
+   Demonstrating that subliminal goal priming works in everyday life and for
+   real life tasks could be a major contribution. This would, however,
+   require a study that tests the effect by comparing participants’
+   behaviour against a baseline. This would certainly require a larger
+   sample. In addition, it would certainly help to determine objective
+   measures (e.g. as simple as logging the participants' activities using
+   activity recognition APIs provided on current smartphones). Furthermore,
+   inferential statistics is required to show effects.
+
+Publicity Headline
+
+
+
+------------------------ Submission 2316, Review 1 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   The authors presented an interesting pilot study conducted to explore the
+   possibility of applying subliminal goal priming on behaviour change,
+   using smartphones as the platform. The data showed the subliminal goal
+   priming brought no positive impact on users' goal commitment. At the same
+   time, it didn't make the users react adversely either. 
+
+Overall Rating
+
+   2.5 . . . Between possibly reject and neutral 
+
+Expertise
+
+   2  (Passing Knowledge)
+
+The Review
+
+   The paper is nicely written and well structured. The concept behind this
+   pilot study is very interesting, and the authors have carefully scoped
+   the study. However, the paper can be further improved if the authors can
+   address the following issues:
+
+   1. Some researchers have indeed visited the idea of understanding how
+   users perceive technology based health interventions. Bonnie Spring and
+   colleagues' work on health apps talked about that. Would be nice to see
+   them in related works.
+
+   Spring, Bonnie, et al. "Healthy apps: mobile devices for continuous
+   monitoring and intervention." Pulse, IEEE 4.6 (2013): 34-40.
+
+   2. I hope the authors have considered language barriers, and their effect
+   on priming. If so, please provide more information about the study
+   participants on this aspect.
+
+   3. Hintze's work on average mobile uses per day also stated that users
+   unlock their devices for about 43% of all interactions, and the
+   performance of individuals are quite diverse. It would be very useful to
+   know the total number of interactions (when they unlock the screen)
+   happened during the study per participants / group, considering the
+   sample size is quite small.
+
+   4. Page 3 Paragraph "All participants were asked to ...", line 6, did the
+   authors mean "NO mask condition participants (n=5) ..."?
+
+   5. If there is a reason that the significant level was not calculated and
+   reported in the Results section, please state so.
+
+   6. The authors may consider change how they report results from tables to
+   text, so to make more room to list items in the pre and post
+   questionnaires. 
+
+
+------------------------ Submission 2316, Review 2 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This manuscript presents a theoretical and qualitative evaluation of
+   technology that is able to subliminally prime goals on smart phones. The
+   manuscript is readable, and describes the relevant literature quite well.
+   So, although not providing evidence for the actual effectiveness of this
+   kind of subliminal priming technology, it can be considered an
+   interesting contribution to scientific literature. 
+
+Overall Rating
+
+   3.5 . . . Between neutral and possibly accept 
+
+Expertise
+
+   2  (Passing Knowledge)
+
+The Review
+
+   The manuscript is readable, and describes the relevant literature quite
+   well. So, although not providing evidence for the actual effectiveness of
+   this kind of subliminal priming technology, it can be considered an
+   interesting contribution to scientific literature.
+
+   As the authors state in their Abstract, they present a qualitative study.
+   Because of several reasons (e.g., low number of participants) statistical
+   analyses indeed not seem to be possible. So, hard evidence for the
+   effectiveness of the 'BCIT's is not there. Still, I agree with the
+   authors that it seems an interesting and worthwhile approach. However, I
+   do not quite know whether CHI papers need to present hard evidence, or
+   rather, can also do more theoritical work.
+
+   In the Abstract, I do not understand what ‘We outline surveyed user
+   attitudes … ‘  means specifically. 
+
+   Also, the next sentence (‘We report on a user study of an
+   implementation of our approach…’ is unclear: were people asked for
+   what they think about such technology?  Whether they think it might work?
+   But, importantly, I do not understand the relevance of people’s
+   conscious responses to questions about unconscious influencing…  
+   Reading the manuscript, I understand that the study assessed acceptance
+   by users. This focus should be made clear in the title and abstract.
+
+   the abbrehiviation BCIT is a new one, and I would propose to stick to
+   existing ones, and to earlierly proposed definitions of persuasive
+   technology. Eg to the work by Harri Oinas-Kukkonen.
+
+
+
+
+
+
+
+
+------------------------ Submission 2316, Review 3 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper presents a concept of using subliminal goal priming on mobile
+   phones for behavior change interventions. The idea is to prime a
+   motivational phrase (and smiley) while unlocking the screen in order to
+   support behavior change. Besides the idea itself, the paper provides some
+   helpful details for people that might want to start with similar
+   research.
+
+Overall Rating
+
+   1.5 . . . Between reject and possibly reject 
+
+Expertise
+
+   2  (Passing Knowledge)
+
+The Review
+
+   As already outlined in the authors’ preceeding publication [1], there
+   is a clear need for BCITs, e.g., to get rid of behavior that is known to
+   be harmful. In combination with the interesting approach of testing
+   subliminal priming on the mobile phone, it is worth doing research in
+   this domain and I appreciate submitting such contributions to CHI. 
+   Looking at the introduction and related work section, the authors
+   introduce the topic appropriately and might also allow people that are
+   rather novel to this field to understand this domain.
+   However, while reading the rest of the submission, I stumbled across
+   various issue due to which I recommend to possibly reject this submission
+   in its current state.
+   The biggest issue is probably the presented study. Starting with a
+   somehow shortened study description (see also comments for improvement
+   below), it is somehow tricky to extract the exact purpose of the study,
+   the method (between subject), and the procedure since many details are
+   not expressed explicitly. With regard to the experiment design (between
+   subject), the number of participants is extremely low, which probably
+   also is the reason why the authors did not report and results of
+   statistical tests.
+   Even though the authors state that they did a pre-test to measure how
+   long the prime is actually shown, I am not sure whether the same timings
+   happened throughout the experiment since 2 participants in the non-mask
+   group were able to see the prime. With this regard, I am also wondering
+   what the authors mean with “while 2 participants (40%) in the mask
+   condition reported that they could not recognize the goal word” –
+   does this mean that 60% did see the word in this condition. If yes, we
+   have to assume that the timings might have been wrong and that it was
+   actually no subliminal priming. Speculating about potential reasons, I
+   could imagine that the feasibility study was conducted on a “fresh”
+   phone without many Apps, while the participants were using their own
+   (different!) phones with a multitude of apps, of which many might run in
+   the background and slow down certain processes. It is not explicitly
+   stated that the participants used their own phones and the timing
+   probably should have been tested on each phone in advance – or the
+   participants should have used the same phones throughout the experiment.
+   Also, it would have been interesting to see whether some kind of logging
+   of the timing happened. This might have helped to trace down potential
+   technical issues. With regard to the two conditions, I was wondering
+   whether a third group (mask only, no prime) as a control group would be
+   necessary as also mentioned in the authors previous publication [1].
+   With regard to the outcome of the questionnaire, I am a bit confused. As
+   the authors state in the discussion, it takes at least 18 days to form a
+   habit. Is it then useful to conduct a study for a week only? 
+   All in all, I am not able to draw some real conclusions or extract
+   helpful findings from the conducted study. Thus, even though there is
+   more content presented than in the authors’ previous publication [1], I
+   do not see that this is sufficient to justify accepting the paper.
+   However, the future work section provides some nice ideas, e.g., to
+   extend the concept to other devices and see whether different display
+   times might be needed. I would be careful with stating that subliminal
+   goal priming is possible due to the potentially technical issues outlined
+   earlier. 
+
+
+   Improvement:
+   - Study description: What were the participants told the study is about /
+   how it works (might influence the outcome). It should be clearly
+   mentioned in the beginning that a between-subject experiment has been
+   conducted. Also, more details about the participants (e.g., age) should
+   be provided, especially since age might have an influence on reaction and
+   perception. Additionally, in the 2nd paragraph the authors probably want
+   to talk about “non-mask condition participants”. Since not the HWK
+   scale might not be known to many HCI researchers, it should be explained
+   better. Also, the additional questions should not be attached as
+   supplementary material but mentioned in the paper.
+   - Results: Figures 3 and 4 may be improved, e.g., the dimensions of the
+   axes are not mentioned
+   - As the authors already mention, there seem to be Apps that deal with a
+   similar topic (see also [2,3]. Thus, I do not feel comfortable stating
+   that this use is novel (Abstract)
+   - All sentences in the abstract start with “We”. That does not read
+   very well.
+   - For a next iteration, the motivation as well as concrete finding should
+   be communicated better in abstract, introduction, and conclusion (missing
+   completely!).
+   - What does the “it” in the first sentence of the second paragraph in
+   column 2 on page 1 refer to?
+
+   [1] Charlie Pinder, Jo Vermeulen, Russell Beale, and Robert Hendley.
+   2015. Subliminal Priming of Nonconscious Goals on Smartphones. In
+   Proceedings of the 17th International Conference on Human-Computer
+   Interaction with Mobile Devices and Services Adjunct (MobileHCI '15).
+   ACM, New York, NY, USA, 825-830.
+   DOI=http://dx.doi.org/10.1145/2786567.2793707 
+   [2]
+   https://play.google.com/store/apps/details?id=com.creadigol.subliminal 
+   [3]
+   https://play.google.com/store/apps/details?id=com.MegaBit.SubliminalLite 
+
+
+

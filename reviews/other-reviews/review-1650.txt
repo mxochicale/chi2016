@@ -1,0 +1,370 @@
+CHI 2016 Papers and Notes
+
+Reviews of submission #1650: "Heartefacts: Augmenting Mobile Video
+Sharing Using Wrist-Worn Heart Rate Sensors"
+
+------------------------ Submission 1650, Review 4 ------------------------
+
+Reviewer:           primary
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper presents the results of a study which aims to collect data on
+   heart-rate as a way of extracting subjective time-based meta-data about
+   video consumption. The proposed mechanism for sharing this data is novel,
+   based around video summaries.
+
+Overall Rating
+
+   3.0 - Neutral: Overall I would not argue for accepting or rejecting this paper. 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+
+The Meta-Review
+
+   All three reviewers appreciated the timely and relevant topic that the
+   authors have approached. Exploring possible use cases for consumer worn
+   sensors, particularly in the media space is both an interesting and
+   trending area in the community.
+
+   All the reviewers however feel that the work does not go far enough in
+   delivering a novel contribution, R3 in particular argues that the work
+   delivers minimal novel contribution over existing work (that is cited in
+   the paper), and reads like the beginnings of an interesting project which
+   has not been finished. Although R1 scores the paper at 3, they also raise
+   observations that the work is not ready for publication in its current
+   form, and so it is key that the authors respond to the raised points in
+   their rebuttal.
+
+   R2 is particularly positive about the value of the data-set as a
+   stand-alone contribution, but both R3 and myself (and R1 to some extent)
+   have concerns that this data does not advance knowledge past the existing
+   cited work, and the paper does not go far enough to explore the elements
+   of personalized media sharing that could be the unique contribution of
+   this work.  
+
+   Whilst not concerning R1 and R3, R2 raises the issue of ethics, so it is
+   important that the authors respond to this comment directly in their
+   rebuttal, and assure the PC that appropriate ethical approval was
+   obtained for the personal data collection.
+
+   In summary, the authors should respond to the following in their rebuttal
+   for PC consideration:
+   - How this work stands alone as complete, rather than being a
+   presentation of half-completed work.
+   - How the paper delivers more than a data-set which confirms existing
+   studies.
+   - Clarifying the primary research questions, and the context of use in
+   which these findings can be contextualized (i.e. personal media sharing
+   vs. commercial).
+
+Publicity Headline
+
+
+
+------------------------ Submission 1650, Review 5 ------------------------
+
+Reviewer:           secondary
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper concerns the analysis of heart rates to assess emotional
+   content of videos. This is embedded in a wider question on the extent to
+   which people are willing to share their physiological data to control
+   social media. As such it covers a timely and innovative area of human
+   computer interaction
+
+Overall Rating
+
+   2.5 . . . Between possibly reject and neutral 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   The study is embedded in a compelling subject area and the main
+   contribution (the heart rate vs emotional content in videos study) seems
+   well set up and carried out. 
+
+   There are some elements that would improve the paper such as fixing
+   unclarities about the division between two datasets and more depth of the
+   discussion of the originality of this work as well as how and why sharing
+   of physiological data can assist social media activities such as video
+   sharing.
+
+   However, the publication of this work as a full paper seems too early.
+   While the overall aim of the study is extremely compelling, the current
+   report only offers a first installment toward that more balanced view on
+   physiological data to control social media content delivery and design
+   consequences. The work may have been better presented in a note, however,
+   I am unsure if rewriting to a note is acceptable in the timespan of the
+   CHI publication process.  I feel that the current work offers an
+   interesting lab study with limited validity which unfortunately, is not
+   sufficient to merit publication.
+
+
+The Meta-Review
+
+
+Publicity Headline
+
+
+
+------------------------ Submission 1650, Review 1 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper explores heart rate as a measure of emotional engagement in
+   video viewers, suggesting that it might be used as a way of extracting
+   significant moments to share between viewers. The paper's principal
+   contribution is a study tentatively that heart rate and emotional
+   intensity of video content might be correlated with some accuracy using 
+   readily-available wearables.
+
+Overall Rating
+
+   3.0 - Neutral: Overall I would not argue for accepting or rejecting this paper. 
+
+Expertise
+
+   2  (Passing Knowledge)
+
+The Review
+
+   This paper describes a project exploring how physiological data might be
+   used as a control for media sharing via social media, through the use of
+   wearables such as smart watches. Although the project is described
+   briefly in its entirety, the paper focuses mainly on a study in which
+   participants’ heart rates were recorded and a correlation with the
+   emotional content of a set of videos was explored. 
+   The paper is engagingly written and clearly situates itself within a
+   domain. The literature review reinforces this position and covers both
+   the physiological basis for the work and related projects within HCI. The
+   envisaged outcome of the research is summarised succinctly in figure 6:
+   it might be useful to bring this figure forward to the introduction and
+   refer to it directly. 
+   The study is documented in reasonable depth and a statistical analysis of
+   the results has been performed. The discussion of the results is also
+   carried out with some clarity. As a minor point: it is not clear from the
+   text the precise effect of averaging between participant datasets: it
+   would be useful to include at least one graph where individual
+   participants’ data are compared with each other. 
+   The main limitation in the paper currently is in the unfinished state of
+   the project: the authors have conducted a study which has generated some
+   interesting insights that shed light on the first part of their design
+   problem (heart rates might be used to identify emotionally significant
+   highlights) but the project currently seems to end there. The authors
+   themselves acknowledge that more discussion is needed around video
+   editing and sharing. The document as it stands represents a fairly useful
+   first step in a project which might yield interesting designs, however
+   the size of the participant group makes me hesitant to describe this as a
+   significant contribution. I feel that this is a project well worth
+   pursuing but possibly not yet ready for publication in this context. 
+
+
+------------------------ Submission 1650, Review 2 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   The contribution of this work is that it suggests and designs a novel way
+   in which people can share their physiological data and how it couples to
+   outside events or behaviors in an accessible and acceptable way. The
+   study also does some exploratory testing in a controlled environment.
+
+Overall Rating
+
+   4.0 - Possibly Accept: I would argue for accepting this paper 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   •	Significance of the paper's contribution to HCI and the benefit that
+   others can gain from the contribution: why do the contribution and
+   benefit matter?
+
+   This work addresses a timely issue, and provides some answers to
+   important question such as whether and to what extent would people be
+   willing to share their. This matters because many people are considering
+   implementing this type of functionality in health or security domains.
+
+   •	Originality of the work: what new ideas or approaches are introduced?
+   We want to emphasize that an acceptable paper must make a clear
+   contribution to Human-Computer Interaction;
+
+   Given the enormity of the HCI field I do not claim to know how original
+   this work is precisely. It is clear however the authors could do a better
+   job in the discussion making this point themselves. I’m inclined to
+   give this work the benefit of the doubt if the authors themselves add
+   more precise statements about the replication, extension and novel
+   aspects of their work in the discussion.
+
+   •	Validity of the work presented: how confidently can researchers and
+   practitioners use the results?
+
+   At present this is still mainly a lab study with limited ecological
+   validity. However, the data from the survey could be used immediately by
+   other researchers or practitioner. The authors could think about how
+   their work might be interesting to certain user groups with for example
+   emotion regulation disorders (e.g. borderline personality disorders), and
+   how sharing with caretakers with their application might be a valid
+   extension?
+
+   •	Presentation clarity;
+
+   The text was easy to follow. I would have appreciated a clear statement
+   of the research question(s). At present this is missing and the
+   introduction flows into the methods quite abruptly. I wasn’t in the
+   dark about the research at that point, but I think clarity could improve
+   further by a more explicit statement of the RQs at the end of the
+   introduction. 
+
+   At present the section on Mobile Applications Using Physiological Data is
+   also a bit of a summing up, which could be tied better to the author’s
+   own study. 
+
+   The discussion is too limited at present and the authors should strive to
+   get a balance between the content in the discussion and the introduction.
+   Far more could be done on placing the current work with respect to the
+   current state of art in the field.
+
+   •	Relevant previous work: is prior work adequately reviewed?
+
+   The (theoretical) treatment of the relation between fluctuations in
+   self-reported experience and physiological fluctuations should benefit
+   more from insights from current literature. I suggest including work on
+   the typical lack of correlation between these measures for individuals
+   (e.g. Evers, C., Hopp, H., Gross, J. J., Fischer, A. H., Manstead, A. S.
+   R., & Mauss, I. B. (2014). Emotion response coherence: A dual-process
+   perspective. Biological Psychology, 98(1), 43–49.
+   http://doi.org/10.1016/j.biopsycho.2013.11.003). 
+
+   The authors could reflect in the discussion on how insights from this
+   dual-process perspective (evers et al. 2014) and the typical lack of
+   coherence within individuals between physiological (automatic) and
+   self-reported (reflective) measures might inform their next design
+   iteration. 
+
+   In the discussion more could be said about the difficulty in associating
+   HR and physiological fluctuations with unique internal or external events
+   (standard handbooks on physiology (e.g. the one by Cacioppo). It would be
+   sad and a waste of time if this field in HCI would start making mistakes
+   that have been made for decades in other applied physiological fields
+   (e.g. lie detection) where people expected changes in physiology to be
+   tied uniquely to a certain act (e.g. telling a lie).
+
+   FURTHER SUGGESTIONS:
+
+   - Given the sensitive nature of the topic (sharing your physiological
+   data with others) and the inclusion of human participants I expected, but
+   didn’t find an explicit statement on ethical assessment and approval of
+   the research protocol by an independent committee. It would be very good
+   if this could be added (only informed consent is not really sufficient I
+   think).
+   - Table 1 seems to contain a mistake. If I understand the author’s
+   correctly all videos should have [5] or [4] [4]? Yet row two only has
+   [4]? That for example should be a [5] I guess?
+   -The sentence before discussion and conclusion contains a superfluous
+   “these”.
+
+
+------------------------ Submission 1650, Review 3 ------------------------
+
+Reviewer:           external
+
+Your Assessment of this Paper's Contribution to HCI
+
+   This paper proposes a novel mechanism for sharing physiological (heart
+   rate) data with others: video summaries of the highlights of the video
+   based on the heart rate readings 
+
+Overall Rating
+
+   2.0 - Possibly Reject: The submission is weak and probably shouldn't be accepted, but there is some chance it should get in. 
+
+Expertise
+
+   3  (Knowledgeable)
+
+The Review
+
+   We are living in the wearable technology era, in which we are actively
+   looking for a killer application (apart from wellbeing and fitness) that
+   can utilize all that amount of relevant data that we think we will be
+   gathering. Certainly, interpersonal communication and connectedness is an
+   area where human responses and emotions play a crucial role. This paper
+   follows the trend, investigating novel scenarios and applications based
+   on physiological data gathered by intelligent accessories like watches.
+   The authors aim at the creation of a video sharing service that allows
+   users to automatically edit and annotate videos based on his/her heart
+   rate data. The idea is interesting, but a bit unclear. Such uncertainty
+   about the final objective makes it complicated to evaluate the actual
+   benefits and drawbacks. Is it about media annotation and editing? Is it
+   about personalized media sharing? It would help as well to understand
+   which types of videos (personal or commercial) are intended for and who
+   (friends, family members, the world) are the recipients, since the type
+   of required evaluations might be different for each of the alternatives.
+
+   The authors provide a good survey of previous systems and solutions,
+   concluding that directly sharing raw physiological data is not a good
+   idea (privacy, exposure…) Instead they propose a service by which video
+   shared can be edited (cut highlights) based on hear rate data. I assume
+   that the goal is that the response is an annotated version of the video,
+   which includes the physiological response of the receiver. 
+    
+   For the design and development of the system, the authors follow a number
+   of steps: online survey and exploratory study. While each of the
+   methodologies is valid in its own accord, it remains unclear why this
+   process was followed and how each stage influenced the other one. In
+   principle, the survey does not provide any further insights than previous
+   reports on media usage and sharing (e.g., Nielsen). I cannot understand
+   why the authors spend over 2 pages out of 9 reporting the whole survey
+   results, when they should have simply highlight the most relevant and
+   striking ones. Apart from the results on sharing physiological signals,
+   the rest of the results should have taken a maximum of two paragraphs.
+   The next step was a study in which the heart rate data of users watching
+   videos was recorded, and time-aligned with the video timeline. In this
+   case, the objective was to better understand the relationship between the
+   physiological signals and some emotions. Given the extensive number of
+   studies in this area (referred by the authors), the findings are not that
+   novel or interesting. Finally, the authors conclude the paper with a
+   short analysis of how the highlights identified by the physiological
+   signals will compare to those identified by one expert. While an
+   interesting idea, the evaluation is rather incidental in order to take
+   the results into account.
+
+   Overall, I find the topic of the paper relevant and current.
+   Unfortunately, the contribution is minimal, and the validation is not
+   that strong. I believe that the paper would have made a good note by
+   condensing it and only highlighting the novel findings. I am particularly
+   concerned about how the physiological data is analyzed. It is unclear how
+   acceleration and deceleration trends are quantified, and how such
+   quantification is identified as significant and relevant (or not).
+   Moreover, I am unsure about how the signals have been normalized (for
+   example Fluerau at CHI2013 shows some robust algorithms to treat
+   time-variant signals like these). Such light treatment of the data in my
+   opinion result in rather incidental conclusions and in a weak
+   contribution.
+
+   In my view this is an interesting application that I would probably want
+   to try. The paper is an example of exploratory research trying to better
+   understand how new devices can be used for different scenarios.
+   Unfortunately, the paper is not ready for publication and the authors
+   would need to further explore the problem space, to more formally analyze
+   the data, and to perform a number of extra experiments.
+
+
+
